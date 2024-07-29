@@ -1,0 +1,30 @@
+.crypto-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #00e7ff;
+}
+
+.coin-type {
+  display: flex;
+  align-items: center;
+}
+
+.coin-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.value {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.currency-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}

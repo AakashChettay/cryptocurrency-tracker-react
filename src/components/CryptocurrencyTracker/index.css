@@ -1,0 +1,22 @@
+.crypto-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #00e7ff;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.crypto-image {
+  width: 80%;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
